@@ -102,7 +102,7 @@ ENV/
 
 # custom
 _TODO
-checkpoints
+#checkpoints
 plots
 vcs.xml
 .idea
